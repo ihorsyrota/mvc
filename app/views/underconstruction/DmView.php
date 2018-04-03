@@ -1,0 +1,1 @@
+<p>Direct manager index (default) page</p>
