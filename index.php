@@ -5,7 +5,7 @@ if ( $developmentMode )
 {
     //phpinfo();die;
     // In development mode we need to see every errors and messages
-    ini_set ( 'display_errors', 1 ); // we need to back it again
+    ini_set ( 'display_errors', 0 ); // we need to back it again, again test
     error_reporting ( E_ALL );
 }
 else
